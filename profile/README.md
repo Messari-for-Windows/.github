@@ -26,7 +26,7 @@ Security and reliability are core priorities, with a robust infrastructure ensur
 
 ---
 
-![Messari Interface](https://messari.io/_next/static/media/default-og.9b766420.png)
+![Messari Interface](https://cdn.sanity.io/images/zf2ahfgc/production/ffb7c4f7b332df9fa77a90d96162acdd42f0768f-2400x1254.png)
 
 ---
 
